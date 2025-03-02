@@ -4,6 +4,7 @@
 ## 简介
 这是一个用于计算职工延迟退休年龄的工具，适用于不同类型的人员（包括正常退休、特殊工种、病残津贴）。  
 该工具提供图形界面，方便用户输入出生年月和人员类型，自动计算延迟退休日期、弹性退休范围、最低缴费年限等信息。
+![预览界面](images/预览界面01.png)
 
 ## 下载与安装
 1. 点击 [此处](https://github.com/wayzlin/Retirement_calculator/releases) 下载最新的`retirement_calculator.exe`文件。
