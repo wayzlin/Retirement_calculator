@@ -65,4 +65,4 @@
 This software is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 ## 反馈
-如有问题或建议，请在 GitHub 仓库提交[Issue](https://github.com/wayzlin/Retirement_calculator/issues)或联系开发者 [邮箱](wayzlin@foxmail.com) 。
+如有问题或建议，请在 GitHub 仓库提交[Issue](https://github.com/wayzlin/Retirement_calculator/issues)或联系开发者邮箱 <wayzlin@foxmail.com> 。
