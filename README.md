@@ -61,7 +61,7 @@
 3. 本软件开发者不对因使用本计算器而产生的任何后果承担责任。
 
 ## 许可证
-本软件的许可证为：[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans)  
+本软件的许可证为 [署名—非商业性使用—禁止演绎 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans)  
 This software is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 ## 反馈
