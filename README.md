@@ -1,5 +1,5 @@
 # Retirement_calculator
-职工延迟退休年龄计算器
+职工延迟退休年龄计算器 by Wayzlin（溜溜）
 
 ## 简介
 这是一个用于计算职工延迟退休年龄的工具，适用于不同类型的人员（包括正常退休、特殊工种、病残津贴）。  
@@ -66,5 +66,10 @@
 本软件的许可证为 [署名—非商业性使用—禁止演绎 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh-hans)  
 This software is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
+## 支持项目
+本软件免费提供使用，如果您觉得这个项目对您有帮助或想要支持作者，欢迎赞赏☕，感谢您的支持！  
+
+<img src="https://github.com/wayzlin/Retirement_calculator/blob/images/WX.jpg" width="200" alt="微信收款码"/>      <img src="https://github.com/wayzlin/Retirement_calculator/blob/images/ZFB.jpg" width="200" alt="支付宝收款码"/>
+
 ## 反馈
-如有问题或建议，请在 GitHub 仓库提交 [Issue](https://github.com/wayzlin/Retirement_calculator/issues) 或联系开发者邮箱 <wayzlin@foxmail.com> 。
+如有问题或建议，请在 GitHub 仓库提交 [Issue](https://github.com/wayzlin/Retirement_calculator/issues) 或联系作者邮箱 <wayzlin@foxmail.com> 。
