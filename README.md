@@ -57,5 +57,9 @@
 2. 计算结果不构成任何法律依据，使用者应以当地人力资源和社会保障局以及社会保险事业中心的正式官方通知为准。
 3. 本软件开发者不对因使用本计算器而产生的任何后果承担责任。
 
+## 许可证
+本软件的许可证为：署名—非商业性使用—禁止演绎 4.0 协议国际版。
+This software is licensed under CC BY-NC-ND 4.0 (https://creativecommons.org/licenses/by-nc-nd/4.0/).
+
 ## 反馈
 如有问题或建议，请在GitHub 仓库提交[ Issue ] ( [https://github.com/wayzlin/Retirement_calculator/issues )或联系开发者。
